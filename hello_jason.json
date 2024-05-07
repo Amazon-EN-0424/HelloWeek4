@@ -1,0 +1,22 @@
+{
+  "name": "Jason",
+  "age": 42,
+  "profession": "Professional Jungler",
+  "favoriteColor": {
+    "code": "A13",
+    "name": "green"
+  },
+  "lol-favorite-characters": [
+    "rammus",
+    "trundle",
+    "lee sin"
+  ],
+  "favoriteFood": [
+    {
+      "name": "lasagna"
+    },
+    {
+      "name": "tempeh"
+    }
+  ]
+}
